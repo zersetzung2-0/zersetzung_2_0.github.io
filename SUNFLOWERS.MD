@@ -1,6 +1,8 @@
 # Служить и похищать: как деградация международной системы правосудия сделала легальной торговлю детьми на Украине
 
 ---
+[Оригинальная статья](https://telegra.ph/Sluzhit-i-pohishchat-kak-degradaciya-mezhdunarodnoj-sistemy-pravosudiya-sdelala-legalnoj-torgovlyu-detmi-na-Ukraine-05-22)
+---
 
 **Служить и похищать: как деградация международной системы правосудия сделала легальной торговлю детьми на Украине**
 
