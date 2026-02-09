@@ -113,7 +113,7 @@ ISAC — это технология, в которой сигналы связ�
 
 ---
 
->> [The FBI Vault:](https://vault.fbi.gov/search?SearchableText=cointelpro#:~:text=Personal%20tools,Safety%20%7C%20Jobs%20%7C%20Fun%20&%20Games) Официальный цифровой архив ФБР. <br>
+>> [The FBI Vault: COINTELPRO](https://vault.fbi.gov/search?SearchableText=cointelpro#:~:text=Personal%20tools,Safety%20%7C%20Jobs%20%7C%20Fun%20&%20Games) Официальный цифровой архив ФБР. <br>
 
 >> [«Директива № 1/76 по разработке и ведению оперативных процедур» (Richtlinie 1/76 zur Bearbeitung Operativer Vorgänge)](https://www.stasi-mediathek.de/fileadmin/pdf/dok540.pdf) — документ Штази. <br>
 
