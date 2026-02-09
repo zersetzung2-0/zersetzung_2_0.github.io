@@ -1,4 +1,4 @@
-#### СИСТЕМЫ:
+#### СИСТЕМЫ :
 
 * **CJADC2** (Combined Joint All-Domain Command and Control)
 * **C4ISR** (Command, Control, Communications, Computers, Intelligence, Surveillance, Reconnaissance)
