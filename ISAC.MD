@@ -1,4 +1,13 @@
-# Формализованные описания систем управления и разведки
+#### СИСТЕМЫ
+
+* **CJADC2** (Combined Joint All-Domain Command and Control)
+* **C4ISR** (Command, Control, Communications, Computers, Intelligence, Surveillance, Reconnaissance)
+* **ISAC** (Integrated Sensing and Communications)
+* **ПО DELTA** (Battlefield Management System, BMS)
+
+---
+
+#### Формализованные описания систем управления и разведки
 
 > Формализованные описания для данных определений, структурированные по назначению, ключевым компонентам и стратегической роли.
 
